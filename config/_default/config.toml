@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://ngeunit1.github.io/daveblogs/"
+baseurl = "https://daveblogs.me"
 languageCode = "en-us"
 title = "Hugo Theme Stack Starter"
 
