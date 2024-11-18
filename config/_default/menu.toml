@@ -7,13 +7,13 @@
 #icon = "home"
 #newtab = true
 
-[[social]]
-identifier = "bluesky"
-name = "Bluesky"
-url = "https://bsky.app/profile/ngeunit1.bsky.social"
-
-[social.params]
-icon = "brand-bluesky"
+#[[social]]
+#identifier = "bluesky"
+#name = "Bluesky"
+#url = "https://bsky.app/profile/ngeunit1.bsky.social"
+#
+#[social.params]
+#icon = "brand-bluesky"
 
 [[social]]
 identifier = "twitter"
