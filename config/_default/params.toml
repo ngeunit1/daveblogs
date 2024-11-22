@@ -5,15 +5,15 @@ rssFullContent = true
 favicon = "/favicon.png"
 
 [footer]
-since = 2020
+since = 2024
 customText = ""
 
 [dateFormat]
-published = "Jan 02, 2006"
-lastUpdated = "Jan 02, 2006 15:04 MST"
+published = "Nov 21, 2024"
+lastUpdated = "Nov 21, 2024, 20:00 EST"
 
 [sidebar]
-emoji = "🍥"
+emoji = "🏳️‍🌈"
 subtitle = "Blogging about anime, books, movies, music, tv shows, etc."
 
 [sidebar.avatar]
