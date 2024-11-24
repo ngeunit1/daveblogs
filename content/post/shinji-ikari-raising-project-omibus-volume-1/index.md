@@ -2,7 +2,7 @@
 title: "Neon Genesis Evangelion: The Shinji Ikari Raising Project Omnibus, Volume 1"
 description: Evangelion, but even more horny
 slug: shinji-ikari-raising-project-omnibus-volume-1
-date: 2024-11-21 19:30:00+0000
+date: 2024-11-21 19:30:00
 image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1453062591i/28109977.jpg
 categories:
     - Manga
