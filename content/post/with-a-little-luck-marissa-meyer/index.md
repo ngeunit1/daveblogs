@@ -3,7 +3,7 @@ title: "With a Little Luck by Marissa Meyer"
 description: Return trip to Fortuna Beach out-charms the first go-around
 slug: with-a-little-luck-marissa-meyer
 date: 2024-11-27 17:00:00
-image: https://upload.wikimedia.org/wikipedia/en/3/3c/Fantastic_Beasts_-_The_Crimes_of_Grindelwald_Poster.png
+image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686948017i/63291997.jpg
 categories:
     - Book
 tags:
