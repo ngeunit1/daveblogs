@@ -2,7 +2,7 @@
 title: "Fantastic Beasts: The Secrets of Dumbledore"
 description: Why was this three movies?
 slug: fantastic-beasts-the-secrets-of-dumbledore
-date: 2024-11-2330 09:00:00
+date: 2024-11-29 09:00:00
 image: https://upload.wikimedia.org/wikipedia/en/3/34/Fantastic_Beasts-_The_Secrets_of_Dumbledore.png
 categories:
     - Movie
