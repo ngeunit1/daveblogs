@@ -7,7 +7,8 @@ image: https://cdn.myanimelist.net/images/anime/5/72037.jpg
 categories:
     - Series
 tags:
-    - "Ghost in the Shell", "anime"
+    - "Ghost in the Shell"
+    - "anime"
 weight: 1
 ---
 
