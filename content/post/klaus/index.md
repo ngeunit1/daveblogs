@@ -3,7 +3,7 @@ title: "Klaus"
 description: A delightful holiday movie
 slug: klaus
 date: 2024-12-22 09:00:00
-image: hhttps://upload.wikimedia.org/wikipedia/en/2/26/Klaus_poster.jpeg
+image: https://upload.wikimedia.org/wikipedia/en/2/26/Klaus_poster.jpeg
 categories:
     - Movie
 tags:
