@@ -19,7 +19,7 @@ subtitle = "Blogging about anime, books, movies, music, tv shows, etc."
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "img/daveblogs.png"
 
 [article]
 headingAnchor = false
