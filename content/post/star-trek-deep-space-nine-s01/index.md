@@ -2,7 +2,7 @@
 title: "Star Trek: Deep Space Nine Season 1"
 description: Star Trek, but without the Enterprise
 slug: star-trek-deep-space-nine-s01
-date: 2025-02-05 10:00:00
+date: 2025-01-05 10:00:00
 image: https://walter-r2.trakt.tv/images/shows/000/000/579/posters/thumb/660c7672b2.jpg
 categories:
     - Series
